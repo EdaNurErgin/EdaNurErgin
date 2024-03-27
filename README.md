@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Coffee app**
+- 🔭 I’m currently working **
 
 - 🌱 I’m currently learning **Flutter, C**
 
-- 📫 How to reach me **equ_67@hotmail.com**
+- 📫 How to reach me **edaanurrergin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
