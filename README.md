@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working **
 
-- 🌱 I’m currently learning **Flutter, C**
+- 🌱 I’m currently learning ** **
 
 - 📫 How to reach me **edaanurrergin@gmail.com**
 
